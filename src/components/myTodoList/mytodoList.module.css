@@ -1,0 +1,22 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  td, th {
+    border: 1px solid #ebedfd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+tr:hover {background-color: rgb(245, 240, 240);
+  transition: transform .2s;
+  border-radius: 10px;
+  transform: scale(1.001);
+  text-decoration-color: khaki;
+}
+strong {
+  background: rgb(231, 241, 77);
+  color: white;
+  font-weight: inherit;
+}

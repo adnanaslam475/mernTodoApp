@@ -1,0 +1,37 @@
+.Login {
+    align-items: center;
+    margin: 20px auto;
+    display: block;
+    text-align: center;
+    width: 80%;
+   border-color: black ;
+   border-bottom: 2px;
+}
+.Input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.Label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.InputElement {
+    outline: none;
+    border: 1px solid #ccc;
+    background-color: white;
+    font: inherit;
+    padding: 6px 10px;
+    display: block;
+    width: 99%;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.InputElement:focus {
+    outline: none;
+    background-color: rgb(235, 235, 235);
+}
