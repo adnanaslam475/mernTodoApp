@@ -1,0 +1,12 @@
+{
+    "mongoURI": "mongodb://adnan:dcs-13579@cluster0-shard-00-00-r6gnf.mongodb.net:27017,cluster0-shard-00-01-r6gnf.mongodb.net:27017,cluster0-shard-00-02-r6gnf.mongodb.net:27017/burgerApp?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret": "sl_myJwtSecret",
+    "clientId": "974546648098-1nk7r3ckjneqpe8hci1l186gfb3lkc73.apps.googleusercontent.com",
+    "client_Secret": "BW2TFc_z6BhG9f9tmRnFGI4M",
+    "cookieKey": "adnanaslam",
+    "SENDGRID_API_KEY":"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",
+    "FACEBOOK_APP_ID": "2683344908567603",
+    "FACEBOOK_APP_SECRET": "a1ae37e7d7ead0385aaf7715f4bc183e",
+    "GITHUB_CLIENT_ID": "934d17ca394bac1fc9ab",
+    "GITHUB_CLIENT_SECRET": "6bf27a664304496f44c304ae37e0f6a6225d6341"
+}
